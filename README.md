@@ -1,7 +1,7 @@
-### Client Query
+## Client Query
 
-## We try to request some data
+### We try to request some data
 
-### SERVER QUERY DEF
+## SERVER QUERY DEF
 
-## They define how Client can access the data
+### hey define how Client can access the data
